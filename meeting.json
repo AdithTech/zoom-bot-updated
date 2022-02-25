@@ -1,0 +1,22 @@
+{
+  "meetings": [
+    {
+      "meetingId": "18283993330",
+      "meetingPassword": "18283993330",
+      "name": "<anything_works>",
+      "schedules": [
+        { "date": null, "day": "friday", "time": "18:59:15" },
+        { "date": "2021-09-23", "day": null, "time": "11:26:30" }
+      ]
+    },
+    {
+      "meetingId": "18283993330",
+      "meetingPassword": "18283993330",
+      "name": "<anything_works2>",
+      "schedules": [
+        { "date": null, "day": "monday", "time": "10:59:30" },
+        { "date": "2021-09-23", "day": null, "time": "11:26:30" }
+      ]
+    }
+  ]
+}
